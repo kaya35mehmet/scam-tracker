@@ -1,0 +1,60 @@
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.exe
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.deps.json
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.runtimeconfig.json
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.pdb
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.Form1.resources
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.csproj.GenerateResource.cache
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.AssemblyInfoInputs.cache
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.AssemblyInfo.cs
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.csproj.CoreCompileInputs.cache
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\refint\ScamTracker.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.pdb
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.genruntimeconfig.cache
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ref\ScamTracker.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.csproj.AssemblyReference.cache
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTrac.D4B87D31.Up2Date
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.Properties.Resources.resources
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.DataForm.resources
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.TransactionForm.resources
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\SAS 2\source\repos\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.exe
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.deps.json
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.runtimeconfig.json
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ScamTracker.pdb
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.csproj.AssemblyReference.cache
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.DataForm.resources
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.Properties.Resources.resources
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.csproj.GenerateResource.cache
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.AssemblyInfoInputs.cache
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.AssemblyInfo.cs
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.csproj.CoreCompileInputs.cache
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTrac.D4B87D31.Up2Date
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\refint\ScamTracker.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.pdb
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.genruntimeconfig.cache
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ref\ScamTracker.dll
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.panelTransactionForm.resources
+C:\Users\kaya\Desktop\ScamTracker\ScamTracker\ScamTracker\obj\Debug\net8.0-windows\ScamTracker.MainForm.resources
